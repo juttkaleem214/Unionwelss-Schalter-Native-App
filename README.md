@@ -1,1 +1,5 @@
-# Unionwelss-Schalter-Native-App
+# Unionwelss Schalter Native Android App
+
+Initial release
+
+Huizhou Unionwell hat seinen Hauptsitz in Südchina und ist auf die Herstellung und Herstellung verschiedener kostengünstiger Mikroschalter, Module und anderer präziser elektronischer Komponenten spezialisiert, die mit zahlreichen Marken auf lokaler und globaler Ebene zusammengebaut wurden. Die Unionwell-Werkstatt befindet sich am Tor zwischen Shenzhen und Dongguang und ist mehr als 22.000 Quadratmeter groß. Unser Forschungs- und Entwicklungsteam und unsere Techniker verfügen über langjährige Erfahrung mit ehrenvollem Erfolg. Mit seiner sukzessiven Kreativität ist Unionwell besonders stark in der Realisierung von hocheffizienten Mikroschalterserien, wasserdichten Schaltern, Drehschaltern, Druckknopfschaltern und anderen Schaltern mit einer jährlichen Gesamtleistung von 300 Millionen Stück. Unsere Qualitätsschalter sind vollständig getestet und erfüllen die UL-, ENEC-, EK- und CQC-Laborzertifizierung. Sie sind der absolut beste Schlüssel zum Ein- und Ausschalten der meisten elektronischen Instrumente, Haushaltsgeräte, Automobilelektronik und Elektrowerkzeuge.
